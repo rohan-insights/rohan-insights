@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Working on Data Science & Python projects  <br>👯 Open to collaborating on Data Analytics and ML Projects  <br>🌱 Learning DSA, SQL, Power BI, and advanced Python  <br>💬 Ask me about Python, Pandas, SQL, and data visualization  <br>⚡ Fun fact: I love turning raw data into insights 📊<br>
+🔭 Working on Data Science & Python projects  <br>👯 Open to collaborating on Data Analytics and ML Projects  <br>🌱 Learning DSA, SQL, Power BI, and advanced Python  <br>💬 Ask me about Python, Pandas, SQL, and data visualization  <br>⚡I love turning raw data into insights 📊<br>
 
 
 ## 🌐 Socials:
