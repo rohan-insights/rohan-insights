@@ -1,5 +1,13 @@
 # 💫 About Me:
-🔭 Working on Data Science & Python projects  <br>👯 Open to collaborating on Data Analytics and ML Projects  <br>🌱 Learning DSA, SQL, Power BI, and advanced Python  <br>💬 Ask me about Python, Pandas, SQL, and data visualization  <br>⚡I love turning raw data into insights 📊<br>
+BSc graduate | Data Science & AI trained
+Python • SQL • Power BI • Pandas
+Turning raw data into insights 📊<br>
+
+🔭 Actively working on Data Science and Python projects<br>
+👯 Open to collaborating on Data Analytics and Machine Learning projects<br>
+🌱 Currently strengthening my skills in DSA, SQL, Power BI and advanced Python<br>
+💬 Ask me about Python, Pandas, SQL, Power BI, and data <br>
+⚡ I enjoy transforming raw data into clear, actionable insights that support better decision-making<br>
 
 
 ## 🌐 Socials:
