@@ -1,10 +1,10 @@
 # 💫 About Me:
-BSc graduate | Data Science & AI trained
-Python • SQL • Power BI • Pandas
+BSc graduate | Data Science & AI trained<br>
+Python • SQL • Power BI • Pandas<br>
 Turning raw data into insights 📊<br>
 
-🔭 Actively working on Data Science and Python projects<br>
-👯 Open to collaborating on Data Analytics and Machine Learning projects<br>
+🔭 Actively working on Data Science and SQL <br>
+👯 Open to collaborating on Data Analytics, Data Science and SQL projects<br>
 🌱 Currently strengthening my skills in DSA, SQL, Power BI and advanced Python<br>
 💬 Ask me about Python, Pandas, SQL, Power BI, and data <br>
 ⚡ I enjoy transforming raw data into clear, actionable insights that support better decision-making<br>
