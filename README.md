@@ -5,9 +5,13 @@ Data Analyst | Power BI Developer | Aspiring Data Scientist
 Passionate about transforming raw data into meaningful business insights through analytics, visualization, and AI-powered solutions.
 
 🔭 Currently working on real-world healthcare analytics dashboards and BI reporting solutions
+
 🌱 Strengthening expertise in SQL, Power BI, PySpark, Databricks, Machine Learning, and Advanced Python
+
 👯 Open to collaborating on Data Analytics, Business Intelligence, and Data Science projects
+
 💬 Ask me about Python, SQL, Power BI, Data Visualization, ETL, and Machine Learning
+
 ⚡ Interested in solving business problems using data-driven decision-making and modern AI tools
 
 ---
